@@ -155,6 +155,7 @@
     <ClCompile Include="glad.c" />
     <ClCompile Include="Application.cpp" />
     <ClCompile Include="shaderClass.cpp" />
+    <ClCompile Include="stb.cpp" />
     <ClCompile Include="VAO.cpp" />
     <ClCompile Include="VBO.cpp" />
   </ItemGroup>

@@ -1,7 +1,1 @@
-﻿  EBO.cpp
-  Application.cpp
-  shaderClass.cpp
-  VAO.cpp
-  VBO.cpp
-  Generating Code...
-  OpenGL.vcxproj -> C:\Users\bugge\source\repos\OpenGL\x64\Debug\OpenGL.exe
+﻿  stb.cpp
